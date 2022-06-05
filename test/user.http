@@ -1,0 +1,29 @@
+//cette file pour tester les requete comme suppression,modification ,...
+
+
+get http://localhost:3000/utilisateur  
+
+
+###
+DELETE  http://localhost:3000/utilisateur/:id  HTTP/1.1 
+
+###
+POST  http://localhost:3000/utilisateur 
+Content-Type: application/json
+
+{
+    "nom":"Meriem",
+    "email":"meriemmenqir@gmail.com"
+}
+
+###
+
+PATCH  http://localhost:3000/utilisateur 
+Content-Type: application/json
+
+{
+    "id": 76,
+    "nom" : "meriem",
+    "email":"meriemmenqir@gmail.com"
+}
+

@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://x-special/nautilus-clipboardcopyfile:///home/meriem/Pictures/Screenshot%20from%202022-05-28%2012-53-36.png",
+            "request": "launch",
+            "url": "http://x-special/nautilus-clipboardcopyfile:///home/meriem/Pictures/Screenshot%20from%202022-05-28%2012-53-36.png"
+        }
+    ]
+}

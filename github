@@ -1,0 +1,20 @@
+katmchi l project f file okadir clique droite katl3 lik GIT BASH hia fach atwli tkhdam 
+1rst command :
+git init 
+2nd command:
+git config --global user.name "your name"
+git config --global user.name "your mail lidayr bih github"
+
+katmchi thaz link dial repostery dialk 
+3th command :
+git remote add origin   "link dial repo"
+6th command:
+git add .
+7th :
+git commit -m "dir name dial project bach mrra jaya fach tdir modification whda akhrra dir liha smia haka kayb9aw andk gaaa3 version dial your project "
+8th :
+git log         // bach tchof wach les changement tjlo ou non 
+
+9th command:
+git push original/master
+
